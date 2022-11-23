@@ -1,2 +1,2 @@
 # Bootstrap-Icons
-Get all bootstrap icons 
+Get all bootstrap svg and png icons 
